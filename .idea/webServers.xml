@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fac624a4-86a2-4df8-a6a6-1cfee783672d" name="3090">
+        <fileTransfer rootFolder="/home/dell/zyh" accessType="SFTP" host="172.20.137.174" port="10022" sshConfigId="9343b8ea-2137-4ebb-acde-564420adbb17" sshConfig="3090">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
